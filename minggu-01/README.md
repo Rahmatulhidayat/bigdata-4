@@ -23,7 +23,7 @@ $ wget wget https://www.python.org/ftp/python/3.7.0/Python-3.7.0.tgz
 $ sudo tar xzf Python-3.7.0.tgz
 ```
 ## Langkah 3 - Kumpulkan Python Source
-#### Gunakan set perintah di bawah ini untuk mengkompilasi kode sumber python pada sistem Anda menggunakan altinstall.
+#### Gunakan set perintah di bawah ini untuk mengkompilasi kode sumber python pada sistem anda menggunakan altinstall.
 
 ```bash
 $ cd Python-3.7.0
@@ -34,7 +34,7 @@ $ sudo make altinstall
 #### membuat altinstall digunakan untuk mencegah mengganti file biner python default / usr / bin / python.
 
 ## Langkah 4 - Periksa Versi Python
-#### Periksa versi terbaru menginstal python menggunakan perintah di bawah ini
+#### Periksa versi terbaru menginstal python menggunakan perintah di bawah ini.
 
 ```bash
 $ python3.7 -V
