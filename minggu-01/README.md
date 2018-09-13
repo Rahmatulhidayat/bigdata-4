@@ -41,4 +41,4 @@ $ python3.7 -V
 ```
 ---
 #### sumber : https://tecadmin.net/install-python-3-7-on-ubuntu-linuxmint/
-#### diakses pada 06 September 2018
+#### diakses pada 06 September 2018.
