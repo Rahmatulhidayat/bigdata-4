@@ -10,7 +10,7 @@ $ sudo apt-get install libreadline-gplv2-dev libncursesw5-dev libssl-dev \
 ```
 
 ## Langkah 2 - Unduh Python 3.7
-#### Unduh Python menggunakan perintah berikut dari situs resmi python. Anda juga dapat mengunduh versi terbaru di tempat yang ditentukan di bawah ini.
+#### Unduh [Python](https://www.python.org/) menggunakan perintah berikut dari situs resmi python. Anda juga dapat mengunduh versi terbaru di tempat yang ditentukan di bawah ini.
 
 ```bash
 $ cd /usr/src
@@ -22,7 +22,7 @@ $ wget wget https://www.python.org/ftp/python/3.7.0/Python-3.7.0.tgz
 ```bash
 $ sudo tar xzf Python-3.7.0.tgz
 ```
-## Langkah 3 - Kumpulkan Python Source |
+## Langkah 3 - Kumpulkan Python Source
 #### Gunakan set perintah di bawah ini untuk mengkompilasi kode sumber python pada sistem Anda menggunakan altinstall.
 
 ```bash
@@ -33,7 +33,7 @@ $ sudo make altinstall
 
 #### membuat altinstall digunakan untuk mencegah mengganti file biner python default / usr / bin / python.
 
-## Langkah 4 - Periksa Versi Python |
+## Langkah 4 - Periksa Versi Python
 #### Periksa versi terbaru menginstal python menggunakan perintah di bawah ini
 
 ```bash
