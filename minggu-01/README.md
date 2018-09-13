@@ -1,7 +1,7 @@
 # Install Python 3.7 di ubuntu 18.04
 
 ## Langkah 1 - Prasyarat
-#### Gunakan perintah berikut untuk menginstal prasyarat untuk Python sebelum menginstalnya.
+#### Gunakan perintah berikut untuk menginstall prasyarat untuk Python sebelum menginstalnya.
 
 ```bash
 $ sudo apt-get install build-essential checkinstall
