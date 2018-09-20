@@ -14,11 +14,11 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> 
 ```
 ### Kesimpulan
-#### Pada bab ini dapat di simpulkan tatacara menjalankan python dan pengecekan apakah python dapat berjalan di komputer anda.
+#### Pada bab 2 ini dapat di simpulkan tatacara menjalankan python dan pengecekan apakah python dapat berjalan di komputer anda.
 
 ## BAB 3
 #### Pada bagian ini merupakan perkenalan awal python, dimana python dapat digunakan untuk mengolah angka dan kata. Dapat dilihat pada contoh berikut :
-#### Contoh pengolahan angka
+#### Pengolahan angka
 ```bash
 >>> 2 + 2
 4
@@ -29,7 +29,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> 8 / 5  # division always returns a floating point number
 1.6
 ```
-#### Contoh pengolahan angka menggunkan tipe" data
+#### Pengolahan angka menggunkan tipe" data
 ```bash
 >>> 17 / 3  # classic division returns a float
 5.666666666666667
@@ -41,21 +41,21 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> 5 * 3 + 2  # result * divisor + remainder
 17
 ```
-#### Contoh pengolahan angka menggunakan operator
+#### Pengolahan angka menggunakan operator
 ```bash
 >>> 5 ** 2  # 5 squared
 25
 >>> 2 ** 7  # 2 to the power of 7
 128
 ```
-#### Contoh pengolahan angka menggunakan variabel
+#### Pengolahan angka menggunakan variabel
 ```bash
 >>> width = 20
 >>> height = 5 * 9
 >>> width * height
 900
 ```
-#### Contoh pengolahan kata
+#### Pengolahan kata
 ```bash
 >>> 'spam eggs'  # single quotes
 'spam eggs'
@@ -81,7 +81,7 @@ First line.
 Second line.
 ```
 
-#### Contoh pengolahan List
+#### Pengolahan List
 ```bash
 >>> squares = [1, 4, 9, 16, 25]
 >>> squares
@@ -97,7 +97,7 @@ Second line.
 [1, 8, 27, 64, 125]
 ```
 #### Python digunakan untuk proggamming
-#### Contoh awal sederhana
+#### Contoh sederhana
 ```bash
 >>> # Fibonacci series:
 ... # the sum of two elements defines the next
@@ -116,5 +116,117 @@ Second line.
 ````
 
 ### Kesimpulan
-#### Pada bab ini di jelaskan bahwa python dapat digunakan untuk kalkulator dalam pengolahan (Numbers, Strings, Lists) dan python dapat digunakan juga untuk proggramming
+#### Pada bab 3 ini di jelaskan bahwa python dapat digunakan untuk kalkulator dalam pengolahan (Numbers, Strings, Lists) dan python dapat digunakan juga untuk proggramming
 
+## BAB 4
+#### if statements
+```bash
+>>> x = int(input("Please enter an integer: "))
+Please enter an integer: 42
+>>> if x < 0:
+...     x = 0
+...     print('Negative changed to zero')
+... elif x == 0:
+...     print('Zero')
+... elif x == 1:
+...     print('Single')
+... else:
+...     print('More')
+...
+More
+```
+
+#### for statements
+```bash
+>>> # Measure some strings:
+... words = ['cat', 'window', 'defenestrate']
+>>> for w in words:
+...     print(w, len(w))
+...
+cat 3
+window 6
+defenestrate 12
+```
+#### fungsi range()
+```bash
+>>> for i in range(5):
+...     print(i)
+...
+0
+1
+2
+3
+4
+```
+
+```bash
+>>> a = ['Mary', 'had', 'a', 'little', 'lamb']
+>>> for i in range(len(a)):
+...     print(i, a[i])
+...
+0 Mary
+1 had
+2 a
+3 little
+4 lamb
+```
+
+#### break, continue, dan else
+#### break
+```bash
+>>> for n in range(2, 10):
+...     for x in range(2, n):
+...         if n % x == 0:
+...             print(n, 'equals', x, '*', n//x)
+...             break
+...     else:
+...         # loop fell through without finding a factor
+...         print(n, 'is a prime number')
+...
+2 is a prime number
+3 is a prime number
+4 equals 2 * 2
+5 is a prime number
+6 equals 2 * 3
+7 is a prime number
+8 equals 2 * 4
+9 equals 3 * 3
+```
+#### continue
+```bash
+>>> for num in range(2, 10):
+...     if num % 2 == 0:
+...         print("Found an even number", num)
+...         continue
+...     print("Found a number", num)
+Found an even number 2
+Found a number 3
+Found an even number 4
+Found a number 5
+Found an even number 6
+Found a number 7
+Found an even number 8
+Found a number 9
+```
+
+#### pass statements
+```bash
+>>> while True:
+...     pass  # Busy-wait for keyboard interrupt (Ctrl+C)
+...
+```
+
+#### mendefinisikan fungsi
+```bash
+>>> def fib(n):    # write Fibonacci series up to n
+...     """Print a Fibonacci series up to n."""
+...     a, b = 0, 1
+...     while a < n:
+...         print(a, end=' ')
+...         a, b = b, a+b
+...     print()
+...
+>>> # Now call the function we just defined:
+... fib(2000)
+0 1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987 1597
+```
