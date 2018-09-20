@@ -13,6 +13,8 @@ Python 3.7.0 (default, Sep  6 2018, 15:36:24)
 Type "help", "copyright", "credits" or "license" for more information.
 >>> 
 ```
+### Kesimpulan
+#### Pada bab ini dapat di simpulkan tatacara menjalankan python dan pengecekan apakah python dapat berjalan di komputer anda.
 
 ## BAB 3
 #### Pada bagian ini merupakan perkenalan awal python, dimana python dapat digunakan untuk mengolah angka dan kata. Dapat dilihat pada contoh berikut :
@@ -78,3 +80,41 @@ Type "help", "copyright", "credits" or "license" for more information.
 First line.
 Second line.
 ```
+
+#### Contoh pengolahan List
+```bash
+>>> squares = [1, 4, 9, 16, 25]
+>>> squares
+[1, 4, 9, 16, 25]
+```
+
+```bash
+>>> cubes = [1, 8, 27, 65, 125]  # something's wrong here
+>>> 4 ** 3  # the cube of 4 is 64, not 65!
+64
+>>> cubes[3] = 64  # replace the wrong value
+>>> cubes
+[1, 8, 27, 64, 125]
+```
+#### Python digunakan untuk proggamming
+#### Contoh awal sederhana
+```bash
+>>> # Fibonacci series:
+... # the sum of two elements defines the next
+... a, b = 0, 1
+>>> while a < 10:
+...     print(a)
+...     a, b = b, a+b
+...
+0
+1
+1
+2
+3
+5
+8
+````
+
+### Kesimpulan
+#### Pada bab ini di jelaskan bahwa python dapat digunakan untuk kalkulator dalam pengolahan (Numbers, Strings, Lists) dan python dapat digunakan juga untuk proggramming
+
