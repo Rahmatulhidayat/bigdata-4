@@ -67,5 +67,3 @@
 >>> queue                           # Remaining queue in order of arrival
 deque(['Michael', 'Terry', 'Graham'])
 ```
-
-#### [souce code](https://github.com/rodesta2212/bigdata/tree/master/minggu-03/praktik/src)
