@@ -1,4 +1,5 @@
-# Praktik Minggu ke - 3
+# Hasil PRAKTIK BIG DATA PERTEMUAN 3
+### Pada https://docs.python.org/3/tutorial/index.html
 
 ## BAB 5 - Struktur data
 #### 5.1 More on Lists :
