@@ -11,3 +11,7 @@
 ### Minggu 3
 * [teori](https://github.com/rodesta2212/bigdata/tree/master/minggu-03/teori)
 * [praktik](https://github.com/rodesta2212/bigdata/tree/master/minggu-03/praktik)
+
+### Minggu 4
+* [teori](https://github.com/rodesta2212/bigdata/tree/master/minggu-04/teori)
+* [praktik](https://github.com/rodesta2212/bigdata/tree/master/minggu-04/praktik)
