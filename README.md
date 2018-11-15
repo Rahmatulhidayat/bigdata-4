@@ -1,4 +1,4 @@
-# Kuliah Praktik Bigdata (Kamis)
+# bigdata
 
 ### Minggu 1
 * [teori](https://github.com/rodesta2212/bigdata/tree/master/minggu-01/teori)
