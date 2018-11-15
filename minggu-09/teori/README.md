@@ -7,7 +7,7 @@
 #### Untuk pembersihan dan transformasi data, simulasi numerik, pemodelan statistik, visual data, machine learning, dll.
 
 ### C. Bagaimana cara Installasi Jupyter ?
-#### 1. Pastikan telah mengistall miniconda
+#### 1. Pastikan telah mengistall anaconda, jika anda hanya mengistall miniconda langsung ke langkah no.4
 #### 2. Gunakan perintah dibawah ini untuk mengistall Jupyter
 ```bash
 sudo apt install jupyter-core
