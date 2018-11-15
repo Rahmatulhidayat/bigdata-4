@@ -1,10 +1,10 @@
 ## Teori 9 - [Jupyter](http://jupyter.org/documentation)
 
 ### Apa Jupyter itu ?
-#### Jupyter ini boleh dibilang editor dalam bentuk web aplikasi di localhost komputer kita dan banyak yang bisa dilakukan. Seperti untuk menulis kode Python, equations, visualisasi dan bisa juga sebagai Markdown editor.
+#### Merupakan interactive computing. Jupyter ini boleh dibilang editor dalam bentuk web aplikasi di localhost komputer kita dan banyak yang bisa dilakukan. Seperti untuk menulis kode Python, equations, visualisasi dan bisa juga sebagai Markdown editor.
 
 ### Apa fungsi dari Jupyter ?
-#### 
+#### Untuk pembersihan dan transformasi data, simulasi numerik, pemodelan statistik, visual data, machine learning, dll.
 
 ### Bagaimana cara Installasi Jupyter ?
 #### 1. Pastikan telah mengistall miniconda
@@ -28,4 +28,10 @@ pip install jupyter
 #### 7. kembali ke langkah no 3 untuk pengecekan Jupyter.
 
 ### Bagaimana cara menggunakan Jupyter untuk interactive computing di Python?
-#### 
+#### 1. Jalankan jupyter dengan perintah :
+```bash
+jupyter notebook
+```
+#### 2. Jupyter akan berjalan di browser localhost
+#### 3. Pilih "new" kemudian pilih "python3" untuk membuka notebook baru guna untuk menjalankan source code python.
+#### 4. Kita dapat menjalankan source code python yang kita inginkan.
