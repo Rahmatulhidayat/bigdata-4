@@ -17,3 +17,19 @@ jupyter notebook
 #### Dokumen ini menjelaskan apa yang telah berubah, dan bagaimana Anda mungkin perlu memodifikasi kode atau konfigurasi Anda ketika bermigrasi dari IPython versi 3 ke Jupyter.
 
 # Chapter 1 - Pandas Foundation pada buku Pandas Cookbook
+#### download data yang akan digunakan pada [Pandas-Cookbook](https://github.com/PacktPublishing/Pandas-Cookbook)
+#### data yang saya dowload saya letakkan pada "pandas-cookbook/data"
+```bash
+import pandas as pd
+import numpy as np
+```
+### Dissecting the anatomy of a DataFrame
+```bash
+pd.set_option('max_columns', 8, 'max_rows', 10)
+```
+```bash
+movie = pd.read_csv('bigdata/pandas-cookbook/data/movie.csv')
+movie.head()
+```
+#### output
+[gambar tabel](https://github.com/rodesta2212/bigdata/praktik09/src/outpu1.png)
