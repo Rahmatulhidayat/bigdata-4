@@ -8,3 +8,17 @@
 ### 6. Berikan persetujuan pada proses installasi dan pengaturan.
 ### 7. Tunggu proses installasi sampai selesai.
 ### 8. Untuk pengecekan gunakan perintah *conda List*. Jika terdapat enviroment conda berarti installasi sukses.  
+
+## Cara Install Apache Airflow
+
+### 1. Setelah miniconda berhasil di install, kemudian masukkan perintah :
+```bash
+pip install apache-airflow
+```
+### 2. Ikuti proses instruksi installasi dan tunggu proses installasi selesai
+### 3. Jika terjadi error pada unidecode coba pastikan script dibawah ini telah ada di sistem :
+```bash
+export SLUGIFY_USES_TEXT_UNIDECODE=yes
+```
+
+## Tutorial Apache Airflow
