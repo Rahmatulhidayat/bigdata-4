@@ -32,3 +32,7 @@
 ### Minggu 9
 * [teori](https://github.com/rodesta2212/bigdata/tree/master/minggu-09/teori)
 * [praktik](https://github.com/rodesta2212/bigdata/tree/master/minggu-09/praktik)
+
+### Minggu 10
+* [teori](https://github.com/rodesta2212/bigdata/tree/master/minggu-10/teori)
+* [praktik](https://github.com/rodesta2212/bigdata/tree/master/minggu-10/praktik)
