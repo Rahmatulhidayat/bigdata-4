@@ -40,3 +40,7 @@
 ### Minggu 11
 * [teori](https://github.com/rodesta2212/bigdata/tree/master/minggu-11/teori)
 * [praktik](https://github.com/rodesta2212/bigdata/tree/master/minggu-11/praktik)
+
+### Minggu 12
+* [teori](https://github.com/rodesta2212/bigdata/tree/master/minggu-12/teori)
+* [praktik](https://github.com/rodesta2212/bigdata/tree/master/minggu-12/praktik)
