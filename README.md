@@ -1,4 +1,4 @@
-# bigdata
+# [bigdata](https://github.com/oldstager/academic/tree/master/lectures/bigdata/praktik/2018-2019)
 
 ### Minggu 1
 * [teori](https://github.com/rodesta2212/bigdata/tree/master/minggu-01/teori)
