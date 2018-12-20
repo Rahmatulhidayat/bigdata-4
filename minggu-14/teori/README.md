@@ -4,8 +4,8 @@
 
 # Pembahasan Praktik :
 ## Chapter 11
-* [Getting started with matplotlib](https://github.com/rodesta2212/bigdata/tree/master/minggu-14/teori/Getting started with matplotlib)
-* [Visualizing data with matplotlib](https://github.com/rodesta2212/bigdata/tree/master/minggu-14/teori/Visualizing data with matplotlib)
+* [Getting started with matplotlib](https://github.com/rodesta2212/bigdata/tree/master/minggu-14/teori/GettingStartedWithMatplotlib)
+* [Visualizing data with matplotlib](https://github.com/rodesta2212/bigdata/tree/master/minggu-14/teori/VisualizingDataWithMatplotlib)
 * Plotting basics with pandas (belum selesai)
 * Visualizing the flights dataset (belum selesai)
 * Stacking area charts to discover emerging trends (belum selesai)
