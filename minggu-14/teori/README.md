@@ -4,3 +4,11 @@
 
 # Pembahasan Praktik :
 ## Chapter 11
+* [Getting started with matplotlib](https://github.com/rodesta2212/bigdata/tree/master/minggu-14/teori/Getting started with matplotlib)
+* [Visualizing data with matplotlib](https://github.com/rodesta2212/bigdata/tree/master/minggu-14/teori/Visualizing data with matplotlib)
+* Plotting basics with pandas (belum selesai)
+* Visualizing the flights dataset (belum selesai)
+* Stacking area charts to discover emerging trends (belum selesai)
+* Understanding the differences between seaborn and pandas (belum selesai)
+* Doing multivariate analysis with seaborn grids (belum selesai)
+* Uncovering Simpson's paradox in the diamonds dataset with seaborn (belum selesai)
