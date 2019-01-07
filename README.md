@@ -49,6 +49,6 @@
 * [teori](https://github.com/rodesta2212/bigdata/tree/master/minggu-13/teori)
 * [praktik](https://github.com/rodesta2212/bigdata/tree/master/minggu-13/praktik)
 
-### Minggu 14 (belum)
+### Minggu 14
 * [teori](https://github.com/rodesta2212/bigdata/tree/master/minggu-14/teori)
 * [praktik](https://github.com/rodesta2212/bigdata/tree/master/minggu-14/praktik)

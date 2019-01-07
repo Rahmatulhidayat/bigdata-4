@@ -16,6 +16,6 @@
 ##### 1. Series, merupakan data yang berseri. Contoh data penjualan perbulan 
 ##### 2. DataFrame, data yang berbentuk tabel
 
-## 10 Minutes to panda
+## [10 Minutes to panda](https://github.com/rodesta2212/bigdata/tree/master/minggu-08/teori/10minutestopandas)
 
 ### [sumber belajar](http://pandas.pydata.org/pandas-docs/stable/overview.html)
